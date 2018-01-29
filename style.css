@@ -1,0 +1,31 @@
+h1{
+
+	font-size: 25px;
+	color: blue;
+}
+
+
+body{
+
+	background-color: silver;
+}
+
+
+h2{
+
+	text-align: center;
+	margin-bottom: 75px;
+	margin-top: 50px;
+	text-decoration: underline;
+	font-size: 35px;
+	font-family: "Georgia", Georgia, serif;
+}
+
+
+
+img{
+
+	border-radius: 50%;
+	width: 25%;
+	height: 25%;
+}
